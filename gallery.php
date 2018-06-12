@@ -8,10 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-<h1>page contact V</h1>
-Ecrivez moi
-<form method="POST">
-    <input type="text" name="message">
-</form>
+<h1>Zoubida style</h1>
+stylé
 </body>
 </html>

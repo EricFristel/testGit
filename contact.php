@@ -8,7 +8,8 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Page d'acceuil V2</h1>
-    Coucou les amis
+    <h1>page contact V</h1>
+    Ecrivez moi
+    <form></form>
 </body>
 </html>
